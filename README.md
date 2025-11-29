@@ -25,6 +25,14 @@ The tool was built to support infrastructure and debugging workflows for a produ
 * Slack integration with formatted message output
 * unit tests built with `pytest` and mocking frameworks
 
+#### 🔧 Tech Stack
+* python
+* typer (CLI)
+* libraries: `pandas`, `paramiko`, `tabulate`
+* LLMs: Claude, Gemini
+* Slack API
+* `pytest`, `pytest-mock`
+
 ## ⚡️ What I Owned
 * entire end-to-end architecture
 * parser implementation
